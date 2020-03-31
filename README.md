@@ -15,7 +15,16 @@ Python-Jupyter Notebook으로 MachineLearning, DeepLearning을 이용한 감정�
 
 
 ## Data Set
+- 출처 및 구성
+![dataset](https://user-images.githubusercontent.com/57980363/78030703-75b3d180-739d-11ea-97c6-3216bd265827.PNG)
+![1](https://user-images.githubusercontent.com/57980363/78030749-8a906500-739d-11ea-9b6e-55f4eaa1274c.PNG)
+감정별 Image 구성
+![2](https://user-images.githubusercontent.com/57980363/78030768-9419cd00-739d-11ea-8a04-700f195ca194.PNG)
+성별 Image 구성
+![3](https://user-images.githubusercontent.com/57980363/78030784-9b40db00-739d-11ea-9709-e5f211fe9757.PNG)
+연령대별 Image 구성
 
+## MachineLearning
   
 ## Improvements
   
