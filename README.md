@@ -11,7 +11,9 @@ Python-Jupyter Notebook으로 MachineLearning, DeepLearning을 이용한 감정�
 - **Tool** : Jupyter Notebook
 
 ## Collaborators
-
+- [howking327](https://github.com/howking327)
+- [yiy829](https://github.com/yiy829)
+- [jaden7856](https://github.com/jaden7856)
 
 
 ## Data Set
