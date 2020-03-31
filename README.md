@@ -25,12 +25,19 @@ Python-Jupyter Notebook으로 MachineLearning, DeepLearning을 이용한 감정�
 연령대별 Image 구성
 
 ## MachineLearning
-![ml](https://user-images.githubusercontent.com/57980363/78031113-0e4a5180-739e-11ea-9521-bc3a6f482191.PNG)
+![ml](https://user-images.githubusercontent.com/57980363/78032546-21f6b780-73a0-11ea-9460-2b613403ca90.PNG)
 ![rf](https://user-images.githubusercontent.com/57980363/78031157-1d310400-739e-11ea-8054-051fa6800075.png)
 
 ## DeepLearning
-![dl](https://user-images.githubusercontent.com/57980363/78031190-2b7f2000-739e-11ea-9517-88ecd51780df.PNG)
-![dense](https://user-images.githubusercontent.com/57980363/78031206-333ec480-739e-11ea-9937-91af02d84e65.png)
+![dl](https://user-images.githubusercontent.com/57980363/78032548-23c07b00-73a0-11ea-865f-e9f7e3d42fef.PNG)
+![dense](https://user-images.githubusercontent.com/57980363/78032597-389d0e80-73a0-11ea-8889-73039cb08071.png)
+
+## Source Code
+- DeepLearning
+- MachineLearning
+- Pixelize : Image data에 눈,코,입 벡터 location에 dot 생성
+- Processing&Crop : Data 정제 및 배경 제거 ( Focus Image )
+- Vectification&Division : 벡터 location 별 구역 설정하여 각각의 개별 눈,코,입 Image 생성 
   
 ## Improvements
   
