@@ -25,6 +25,12 @@ Python-Jupyter Notebook으로 MachineLearning, DeepLearning을 이용한 감정�
 연령대별 Image 구성
 
 ## MachineLearning
+![ml](https://user-images.githubusercontent.com/57980363/78031113-0e4a5180-739e-11ea-9521-bc3a6f482191.PNG)
+![rf](https://user-images.githubusercontent.com/57980363/78031157-1d310400-739e-11ea-8054-051fa6800075.png)
+
+## DeepLearning
+![dl](https://user-images.githubusercontent.com/57980363/78031190-2b7f2000-739e-11ea-9517-88ecd51780df.PNG)
+![dense](https://user-images.githubusercontent.com/57980363/78031206-333ec480-739e-11ea-9937-91af02d84e65.png)
   
 ## Improvements
   
