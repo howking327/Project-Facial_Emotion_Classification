@@ -28,7 +28,6 @@ Python-Jupyter Notebook으로 MachineLearning, DeepLearning을 이용한 감정�
 
 ## MachineLearning
 ![ml](https://user-images.githubusercontent.com/57980363/78032546-21f6b780-73a0-11ea-9460-2b613403ca90.PNG)
-![rf](https://user-images.githubusercontent.com/57980363/78031157-1d310400-739e-11ea-8054-051fa6800075.png)
 
 ## DeepLearning
 ![67](https://user-images.githubusercontent.com/57980363/88459754-9e268500-ced2-11ea-80f0-087d9c23e5f1.png)
