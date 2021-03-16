@@ -1,4 +1,4 @@
-# Project-Facial_Emotion_Classification :smile: :angry: 
+# Project-Emotional_Analysis :smile: :angry: 
 
 Python-Jupyter Notebook 개발도구를 사용하여 안면 이미지 데이터를 통한 MachineLearning과 DeepLearning 감정분석 비교 프로젝트입니다.  
 (2020/02/10 ~ 2020/03/20)
